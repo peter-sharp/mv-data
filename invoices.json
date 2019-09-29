@@ -6,6 +6,24 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
+			"date": "2019-09-12",
+			"recipient": {
+				"name": "Bob  corp",
+				"address": "36 Fish place"
+			},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
